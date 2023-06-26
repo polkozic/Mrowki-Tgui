@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\tgui-0.9\\include\\tgui\\tgui.hpp",
+        "ProvidedModule": "",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

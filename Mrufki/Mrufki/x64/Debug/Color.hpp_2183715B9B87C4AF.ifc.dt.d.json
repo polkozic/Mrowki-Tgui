@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\sfml-2.5.1\\include\\sfml\\graphics\\color.hpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\sfml-2.5.1\\include\\sfml\\graphics\\export.hpp",
+            "c:\\sfml-2.5.1\\include\\sfml\\config.hpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

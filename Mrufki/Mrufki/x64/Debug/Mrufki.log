@@ -1,0 +1,237 @@
+﻿  Entity.cpp
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(92,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(92,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(93,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(93,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(94,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(94,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(95,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(95,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(121,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(121,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(122,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(122,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(123,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(123,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(124,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(124,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(2,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(640,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(693,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(697,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(701,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(708,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(712,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(716,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(722,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(726,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(730,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(736,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(740,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(744,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(750,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(754,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(758,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(764,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(768,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(772,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(778,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(782,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(786,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(792,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(796,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(800,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(806,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(813,41): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(859,72): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(955,128): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.cpp(605): warning C4715: 'Ant::rand_mov': not all control paths return a value
+  Source.cpp
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(92,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(92,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(93,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(93,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(94,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(94,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(95,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(95,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(121,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(121,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(122,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(122,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(123,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(123,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(124,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Entity.h(124,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(17,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(20,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(22,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(24,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(32,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(34,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(35,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(37,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(49,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(52,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(254,28): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(256,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(257,28): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(259,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\Mrufki\Source.cpp(56): warning C4715: 'resize': not all control paths return a value
+  Mrufki.vcxproj -> C:\Users\rakat\source\repos\Mrufki(tgui)\Mrufki\x64\Debug\Mrufki.exe
